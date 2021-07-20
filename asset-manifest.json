@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/users_task_2/static/css/main.927ade8b.chunk.css",
+    "main.js": "/users_task_2/static/js/main.06f02412.chunk.js",
+    "main.js.map": "/users_task_2/static/js/main.06f02412.chunk.js.map",
+    "runtime-main.js": "/users_task_2/static/js/runtime-main.5747cff2.js",
+    "runtime-main.js.map": "/users_task_2/static/js/runtime-main.5747cff2.js.map",
+    "static/css/2.081f420c.chunk.css": "/users_task_2/static/css/2.081f420c.chunk.css",
+    "static/js/2.1da3381e.chunk.js": "/users_task_2/static/js/2.1da3381e.chunk.js",
+    "static/js/2.1da3381e.chunk.js.map": "/users_task_2/static/js/2.1da3381e.chunk.js.map",
+    "static/js/3.67924d17.chunk.js": "/users_task_2/static/js/3.67924d17.chunk.js",
+    "static/js/3.67924d17.chunk.js.map": "/users_task_2/static/js/3.67924d17.chunk.js.map",
+    "index.html": "/users_task_2/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/users_task_2/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.927ade8b.chunk.css.map": "/users_task_2/static/css/main.927ade8b.chunk.css.map",
+    "static/js/2.1da3381e.chunk.js.LICENSE.txt": "/users_task_2/static/js/2.1da3381e.chunk.js.LICENSE.txt",
+    "static/media/Spinner.6f75c712.gif": "/users_task_2/static/media/Spinner.6f75c712.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5747cff2.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.1da3381e.chunk.js",
+    "static/css/main.927ade8b.chunk.css",
+    "static/js/main.06f02412.chunk.js"
+  ]
+}
